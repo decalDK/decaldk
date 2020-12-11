@@ -29,4 +29,4 @@
     <th>职业目标:</th>
     <td>有一个自己的工作室</td>
 </tr>
-
+![image](https://github.com/decalDK/decaldk/blob/gh-pages/books-1245690_1920.jpg)
