@@ -30,4 +30,3 @@
     <td>有一个自己的工作室</td>
 </tr>
 
-!(https://cdn.pixabay.com/photo/2016/03/09/09/14/books-1245690_1280.jpg)
